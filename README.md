@@ -282,17 +282,6 @@ _Note Revert back all your local configurations & configure it to point to rinke
 
         npm start
 
-## Team ✨
-
-Meet the amazing team who developed this project.
-
-<table>
-  <tr>
-    <td align="center"><a href="https://in.linkedin.com/in/sur950"><img src="https://avatars.githubusercontent.com/u/46712434?v=4" width="100px;" alt=""/><br /><sub><b>Suresh Konakanchi</b></sub></a><br /><a href="https://github.com/GeekyAnts/sample-decentralised-kyc-ethereum" title="Code">💻</a> <a href="https://geekyants.github.io/sample-decentralised-kyc-ethereum/" title="Documentation">📖</a> <a href="https://github.com/GeekyAnts/sample-decentralised-kyc-ethereum/issues" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://twitter.com/95pushkar"><img src="https://avatars.githubusercontent.com/u/41522922?v=4" width="100px;" alt=""/><br /><sub><b>Pushkar Kumar</b></sub></a><br /><a href="https://github.com/GeekyAnts/sample-decentralised-kyc-ethereum" title="Code">💻</a> <a href="https://geekyants.github.io/sample-decentralised-kyc-ethereum/" title="Documentation">📖</a> <a href="https://github.com/GeekyAnts/sample-decentralised-kyc-ethereum/issues" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://twitter.com/ruchikaSjv"><img src="https://avatars.githubusercontent.com/u/32259133?v=4" width="100px;" alt=""/><br /><sub><b>Ruchika Gupta</b></sub></a><br /><a href="https://github.com/GeekyAnts/sample-decentralised-kyc-ethereum" title="Code">💻</a> <a href="https://geekyants.github.io/sample-decentralised-kyc-ethereum/" title="Documentation">📖</a> <a href="https://github.com/GeekyAnts/sample-decentralised-kyc-ethereum/issues" title="Maintenance">🚧</a></td>
-  </tr>
-  </table>
 
 # How frontend works
 
